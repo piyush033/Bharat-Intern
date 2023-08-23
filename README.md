@@ -1,6 +1,6 @@
 # Bharat-Intern
 
-As a Machine Learing intern these Task assgined to me 
+As a Machine Learning intern these Task assgined to me -:
 
 * [House Price Prediction](https://github.com/piyush033/Bharat-Intern/blob/main/House_Price_Prediction.ipynb)
 * [Wine Quality Prediction](https://github.com/piyush033/Bharat-Intern/blob/main/Wine_Quality_Prediction.ipynb)
